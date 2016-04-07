@@ -35,7 +35,6 @@ public class MainActivity extends AppCompatActivity {
     private int tablewidth;
     private int tableHeight;
 
-    //注释
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
